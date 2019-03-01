@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.yusakul.substrate_hookhello"
+
+    android:installLocation="internalOnly">
+
+    <uses-permission android:name="cydia.permission.SUBSTRATE"/>
+    <application android:hasCode="false">
+
+    </application>
+
+
+</manifest>
